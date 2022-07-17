@@ -1,7 +1,11 @@
 ;Pastelería
 $Me pican los cocos
-#Tortas:
+#Tortas
  Chocolate=15.25
  Vainilla=0.80
  Nueces=0.60
+#Alfajores
+ Suizo=0.75
+ Frances=0.80
+ Italiano=0.60
 &Dulce de tres leches=1.20
