@@ -24,3 +24,4 @@ $Me pican los cocos
  .Limón y mango=2.25
  .Nutella = 2.60
 &Dulce de tres leches=1.20
+&Flan de coco=3.20
