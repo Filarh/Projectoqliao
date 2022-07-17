@@ -8,7 +8,6 @@ $Me pican los cocos
  .Suizo=0.75
  .Frances=0.80
  .Italiano=0.60
-&Cara sucia=0.30
 #Croissants
  .Queso=0.60
  .Jamón=0.75
@@ -25,3 +24,4 @@ $Me pican los cocos
  .Nutella = 2.60
 &Dulce de tres leches=1.20
 &Flan de coco=3.20
+&Cara sucia=0.30
