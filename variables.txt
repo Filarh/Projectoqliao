@@ -13,8 +13,15 @@ $Me pican los cocos
  Jamón=0.75
  Mixto=0.85
  Simple=0.50
+&Cara sucia=1.20
 #Panes Tradicionales
  Enrrollado=0.20
  Mixto=0.20
  Dulce=0.20
+#Cheesecakes
+ Fresa=2.50
+ Maracuyá y Chocolate=2.75
+ Limón y mango=2.25
+ Nutella = 2.60
 &Dulce de tres leches=1.20
+
