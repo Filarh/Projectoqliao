@@ -1,7 +1,7 @@
 ;Pastelería
 $Me pican los cocos
 #Tortas:
-Chocolate=15.25
-Vainilla=0.80
-Nueces=0.60
+ Chocolate=15.25
+ Vainilla=0.80
+ Nueces=0.60
 &Dulce de tres leches=1.20
