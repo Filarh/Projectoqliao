@@ -8,12 +8,12 @@ $Me pican los cocos
  Suizo=0.75
  Frances=0.80
  Italiano=0.60
+&Cara sucia=1.20
 #Croissants
  Queso=0.60
  Jamón=0.75
  Mixto=0.85
  Simple=0.50
-&Cara sucia=1.20
 #Panes Tradicionales
  Enrrollado=0.20
  Mixto=0.20
@@ -24,4 +24,3 @@ $Me pican los cocos
  Limón y mango=2.25
  Nutella = 2.60
 &Dulce de tres leches=1.20
-
