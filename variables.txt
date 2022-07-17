@@ -7,7 +7,6 @@ $Me pican los cocos
 #Alfajores
  .Suizo=0.75
  .Frances=0.80
-&Doritos=0.50
  .Italiano=0.60
 &Cara sucia=0.30
 #Croissants
