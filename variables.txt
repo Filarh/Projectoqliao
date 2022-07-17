@@ -2,8 +2,8 @@
 $Me pican los cocos
 #Tortas
  .Chocolate=15.25
- .Vainilla=0.80
- .Nueces=0.60
+ .Vainilla=14.30
+ .Nueces=18.60
 #Alfajores
  .Suizo=0.75
  .Frances=0.80
