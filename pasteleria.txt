@@ -6,7 +6,7 @@ despues de el nombre en # se puede añadir un @ que indicará que dicho producto
  sabiendo que 0 es lunes y 6 es domingo
 ;Pastelería
 $Me pican los cocos
-#Tortas@3
+#Tortas@4
  .Chocolate=15.25
  .Vainilla=14.30
  .Nueces=18.60
