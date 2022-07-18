@@ -14,7 +14,7 @@ $Me pican los cocos
  .Suizo=0.75
  .Frances=0.80
  .Italiano=0.60
-&Cara sucia=0.30
+&Cara sucia@2=0.30
 #Croissants
  .Queso=0.60
  .Jamón=0.75
