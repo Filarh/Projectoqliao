@@ -1,6 +1,12 @@
+los simbolos ; representan el tipo de negocio
+los simbolo $ el nombre del negocio
+los simbolos # indican que el producto es una categoría 
+los simbolos & indican que el producto es solo, sin categoría
+despues de el nombre en # se puede añadir un @ que indicará que dicho producto o categoría tiene descuento en ese día de la semana
+ sabiendo que 0 es lunes y 6 es domingo
 ;Pastelería
 $Me pican los cocos
-#Tortas
+#Tortas@3
  .Chocolate=15.25
  .Vainilla=14.30
  .Nueces=18.60
