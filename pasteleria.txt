@@ -10,7 +10,7 @@ $Me pican los cocos
  .Chocolate=15.25
  .Vainilla=14.30
  .Nueces=18.60
-#Alfajores
+#Alfajores@1,3,5
  .Suizo=0.75
  .Frances=0.80
  .Italiano=0.60
